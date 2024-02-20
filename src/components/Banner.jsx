@@ -5,7 +5,7 @@ function Banner({ h1, h2 }) {
     <div className="header">
       <img src="images/hero/heroes-bg.png" alt="redcar"></img>
       <div className="text">
-        <h1>{h1}</h1>
+        <h1>{h1}3</h1>
         <h2>{h2}</h2>
       </div>
     </div>
